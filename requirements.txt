@@ -1,0 +1,4 @@
+scanpy
+hdf5plugin
+scipy
+pandas
